@@ -1,9 +1,8 @@
 # 📊 Personal Finance Analysis
 
 ## Files
-- 📊 Spreadsheet: [Google Drive Link](https://docs.google.com/spreadsheets/d/1EcGgwQT3BtQnRC-TnnTV2NJiWISCiDJ8JkYlKoXBzqo/edit?usp=drive_link)  
-- 📄 Report: [Google Drive Link](https://drive.google.com/file/d/1gu2sXcT1ivAzwZsJRg9LM4MwQb59CIAF/view?usp=drive_link)
-
+- 📊 Spreadsheet: [Google Drive Link] https://docs.google.com/spreadsheets/d/1o-5ffnUniEZDoBacKawjPBMw41EEQUdj/edit?usp=drive_link&ouid=106797453044981235526&rtpof=true&sd=true
+- 📄 Report: [Google Drive Link] https://drive.google.com/file/d/1vIe3i76nIOJwCLanaFsyyq9rIJ3UjrlG/view?usp=drive_link 
 ## Dataset
 - Period: 2020–2024  
 - Includes:
